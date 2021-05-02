@@ -21,7 +21,7 @@ The visualizations below highlight different aspects of the Citi Bike data gathe
  
 ### User Trips by Gender
 ![User Trips by Gender](images/User_Trips_by_Gender_by_Weekday.png)
- - This heat map highlights the usage by gender, by weekday, broken down between those distinguished as "Customers" and "Subscribers".  The data shows that male subscribers rent the majority of the bikes every day of the week, with the most popular being Thursday and Friday.  When on the Tableau story site, one can hover over each data point to reveal the rental day by user type and gender, as shown in the screen shot.
+ - This heat map highlights the usage by gender, by weekday, broken down between those distinguished as "Customers" and "Subscribers". A Customer is one who purchases a 24-hour pass or is a 3-day pass user; a Subscriber is defined as an Annual Member.  The data shows that male subscribers rent the majority of the bikes every day of the week, with the most popular being Thursday and Friday.  When on the Tableau story site, one can hover over each data point to reveal the rental day by user type and gender, as shown in the screen shot.
 
 ### Top Starting Locations
 ![Top Starting Locations](images/Top_Starting_Locations.png)
