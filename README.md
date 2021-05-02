@@ -1,34 +1,34 @@
 # Bike Sharing
 ## Overview
 The purpose of this bike analysis is to provide an overview of the Citi Bike usage in NYC, which will give potential investors insight into the popularity, usage, and trends to determine if it is a lucrative investment.
-[link to dashboard](https://public.tableau.com/profile/tiffany5071#!/vizhome/CitiBikeChallenge_16198025735060/Story1?publish=yes)
+[_Link to Dashboard_](https://public.tableau.com/profile/tiffany5071#!/vizhome/CitiBikeChallenge_16198025735060/Story1?publish=yes)
 
 ## Results
 The visualizations below highlight different aspects of the Citi Bike data gathered.
 ### Checkout Times
-[Checkout Times](../Images/Checkout_Times_for_Users.png)
+![Checkout Times](Images/Checkout_Times_for_Users.png)
  - This graph shows the number of bikes checked out based on the rental period; the length of rental times highlighted are: less than an hour, an hour, and two hours.  Based on the results, the most popular rental duration is approximately 10 minutes.
 ### Checkout Times by Gender
-![Checkout Times by Gender](/Images/Checkout_Times_by_Gender.png)
+![Checkout Times by Gender](Images/Checkout_Times_by_Gender.png)
  - The checkout times by gender graph reveals that males are most likely to rent the bikes.  Interestingly, the most popular duration of rental is not quite consistent between males and females.  Per the graphs, it appears females tend to rent the bikes for less time, compared to males. The unknown gender category rents the bikes for a longer period of time, compared to males and females.
 ### Trips by Weekday
 ![Trips by Weekday](Images/Trips_by_Weekday_Per_Hour.png)
  - This heatmap reveals that the most popular times for bike rentals are Monday - Friday, between 7:00am - 9:00am and 5:00pm - 7:00pm. On the weekends, the results are opposite, where the most popular rental times are between approximately 11:00am - 5:00pm. 
 
 ### Trips by Weekday by Gender
-![Trips by Weekday by Gender](/Images/Trips_by_Gender_Weekday_Per_Hour.png)
+![Trips by Weekday by Gender](Images/Trips_by_Gender_Weekday_Per_Hour.png)
  - This heatmap reveals that males are most likely to rent the bikes during the rush hours noted above and also during the popular weekend times.
  
 ### User Trips by Gender
-![User Trips by Gender](/Images/User_Trips_by_Gender_by_Weekday.png)
+![User Trips by Gender](Images/User_Trips_by_Gender_by_Weekday.png)
  - This heat map highlights the usage by gender, by weekday, broken down between those distinguished as "Customers" and "Subscribers".  The data shows that male subscribers rent the majority of the bikes every day of the week, with the most popular being Thursday and Friday.
 
 ### Top Starting Locations
-![Top Starting Locations](/Images/Top_Starting_Locations.png)
+![Top Starting Locations](Images/Top_Starting_Locations.png)
  - This graph highlights the most popular stations for bike rentals, which appear to be mid-town Manhattan and closer to the business district.
 
 ### Gender Breakdown
-![Gender Breakdown](/Images/Gender_Breakdown.png)
+![Gender Breakdown](Images/Gender_Breakdown.png)
  - This final graph reveals the breakdown by gender of the bike rental population, of which men comprise 65%.
  
 ## Summary
